@@ -1,4 +1,4 @@
-# resumetemplate
+# resume
 An online resume template in reactjs  
 Instruction to run:-  
 1)Clone the repo  
@@ -9,6 +9,5 @@ Instruction to run:-
  ```npm run build```
  
 4)Deploy the build folder to any server of your choice. 
+  
 
-For detailed instructions on how the resume template was created go to post below:  
-[Medium Article](https://medium.com/technoetics/create-a-developer-portfolio-using-reactjs-d34ea1bfb18e)
