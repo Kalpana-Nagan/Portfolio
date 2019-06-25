@@ -52,7 +52,11 @@ header .banner {
    vertical-align: middle;
    margin: 0 auto;
    width: 85%;
+<<<<<<< HEAD
    padding-bottom: 30px;
+=======
+   padding-bottom: 30px;s
+>>>>>>> 26d9e928287c65d1aa6561f66f0f1f0395cbcea6
    text-align: center;
 }
 
@@ -351,7 +355,11 @@ ul#nav li.current a { color: #F06000; }
   	-webkit-animation: html5 2s ease;
 }
 .reactjs {
+<<<<<<< HEAD
   	width: 88%;
+=======
+  	width: 80%;
+>>>>>>> 26d9e928287c65d1aa6561f66f0f1f0395cbcea6
   	-moz-animation: reactjs 2s ease;
   	-webkit-animation: reactjs 2s ease;
 }
@@ -365,12 +373,15 @@ ul#nav li.current a { color: #F06000; }
    -moz-animation: reactjs 2s ease;
    -webkit-animation: reactjs 2s ease;
 }
+<<<<<<< HEAD
 
 .angular {
    width: 80%;
    -moz-animation: reactjs 2s ease;
    -webkit-animation: reactjs 2s ease;
 }
+=======
+>>>>>>> 26d9e928287c65d1aa6561f66f0f1f0395cbcea6
 .typescript {
    width: 80%;
    -moz-animation: reactjs 2s ease;
@@ -882,7 +893,11 @@ call-to-action .button {
    margin: 12px 0;
    color: #EBEEEE;
 	display: inline-block;
+<<<<<<< HEAD
 	float: left !important;
+=======
+	float: left;
+>>>>>>> 26d9e928287c65d1aa6561f66f0f1f0395cbcea6
    width: 26%;
 }
 #contact input,
